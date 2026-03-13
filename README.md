@@ -78,6 +78,7 @@ t2 = t1 - c
 ```
 
 # OUTPUT
+<img width="584" height="352" alt="Screenshot 2026-03-13 143736" src="https://github.com/user-attachments/assets/d3d425ea-5564-4f0c-bfd6-709d6b7380a0" />
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
